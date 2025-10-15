@@ -14,9 +14,8 @@
 3. [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)
 4. [Acceso al Proyecto](#acceso-al-proyecto)
 5. [Tecnologías utilizadas](#tecnologías-utilizadas)
-6. [Personas Contribuyentes](#personas-contribuyentes)
-7. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-8. [Licencia](#licencia)
+6. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+
 
 ---
 
